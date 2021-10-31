@@ -9,8 +9,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdolfAgnell&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   <div style="display: inline_block"><br>
-  <i class="devicon-html5-plain-wordmark colored"></i>
-  <i class="devicon-css3-plain-wordmark colored"></i>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 </div>
   
   ##
