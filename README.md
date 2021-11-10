@@ -1,7 +1,7 @@
 ✨ Hello There, I'm Adolfo Agnelli ✨
 
 - 🧠 I'm just a newbie in this world of technology, looking to learn as much as possible.
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Java
 
 <div align="left">
   <a href="https://github.com/AdolfAgnell">
