@@ -17,5 +17,7 @@ Best practices for scalable systems
 📫 Let’s Connect!
 
 LinkedIn:[ Adolfo Agnelli Scolastico](https://www.linkedin.com/in/adolfo-agnelli-scolastico-15550b226/)
+
 Email: adolfoagnelli@gmail.com
+
 Always excited about new challenges, projects, and ideas! 🚀
